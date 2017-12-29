@@ -3,7 +3,7 @@
 <%@ taglib prefix="sec" uri="http://www.springframework.org/security/tags" %>
 <html>
 <head>
-  <%--<link href="${pageContext.request.contextPath}/resources/css/bootstrap.css" rel="stylesheet"/>--%>
+  <link href="${pageContext.request.contextPath}/resources/bootstrap/css/bootstrap.css" rel="stylesheet"/>
 
   <title>Login Page</title>
 </head>
